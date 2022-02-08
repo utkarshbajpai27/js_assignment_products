@@ -28,13 +28,3 @@ function insertJson(){
 }
 
 
-/*function display(lists){
-    document.getElementById("id").innerHTML=id;
-    document.getElementById("name").innerHTML=name;
-    document.getElementById("price").innerHTML=price;
-}
-
-function addList(id,name,price){
-    document.getElementById("id").innerHTML=id;
-    document.getElementById("name").innerHTML=name;
-    document.getElementById("price").innerHTML=price;*/
